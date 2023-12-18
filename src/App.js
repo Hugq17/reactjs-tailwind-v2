@@ -1,9 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import AspectRatio from './pages/AspectRatio';
-import Columns from './pages/Columns';
-import Tricks from './pages/Tricks';
-import BreakAfter from './pages/BreakAfter';
+// import AspectRatio from './pages/AspectRatio';
+// import Columns from './pages/Columns';
+// import Tricks from './pages/Tricks';
+// import BreakAfter from './pages/BreakAfter';
+// import BreakBefore from './pages/BreakBefore';
 
 function App() {
   return (
@@ -11,7 +11,8 @@ function App() {
       {/* <AspectRatio /> */}
       {/* <Columns /> */}
       {/* <Tricks /> */}
-      <BreakAfter />
+      {/* <BreakAfter /> */}
+      {/* <BreakBefore /> */}
     </>
   )
 }
