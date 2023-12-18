@@ -1,4 +1,6 @@
 import './App.css';
+import BoxSizing from './pages/BoxSizing';
+// import BoxDecorationBreak from './pages/BoxDecorationBreak';
 // import AspectRatio from './pages/AspectRatio';
 // import Columns from './pages/Columns';
 // import Tricks from './pages/Tricks';
@@ -13,6 +15,8 @@ function App() {
       {/* <Tricks /> */}
       {/* <BreakAfter /> */}
       {/* <BreakBefore /> */}
+      {/* <BoxDecorationBreak /> */}
+      <BoxSizing />
     </>
   )
 }
