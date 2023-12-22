@@ -10,7 +10,7 @@ import Test from './pages/Test';
 function App() {
   return (
     <>
-      <div className='w-full h-screen flex items-center justify-center'>
+      <div>
         <Test />
       </div>
       {/* <AspectRatio /> */}
